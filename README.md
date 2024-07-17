@@ -81,15 +81,20 @@ This file contains all the meta information regarding the columns described in t
 12. revenue_realized: This column represents the final amount of money that goes to the hotel based on booking status. If the booking status is cancelled, then 40% of the revenue generated is deducted and the remaining is refunded to the customer. If the booking status is Checked Out/No show, then full revenue generated will goes to hotels.
 
 
-Provided Mock-Up Dashboard
+Provided Mock-Up Dashboa
 
-               Data Model
+![mock up dashboard_atliq grands](https://github.com/user-attachments/assets/18e9debb-cace-4446-80e9-97817c8f22ab)
 
+Data Model
+
+![data model](https://github.com/user-attachments/assets/5f0a81fb-d202-44ff-9fec-7ec7f24eb770)
 
 Overall Analysis View
 
+![Overall Analysis view](https://github.com/user-attachments/assets/bb94b473-6c03-4062-9125-a346be0ce9ff)
 
 **Learnt things from this Project**
+
 
 Learnt to build a new visual using matrix table, which can be utilized for different purpose of analyze.
 
@@ -101,17 +106,23 @@ Learnt, how to use bookmarks and selection for different purposes. (Page navigat
 
 Tried using color palette and stick with those colors throughout the dashboard (Color palette link)
 
-Some Important insights from the Dashboard.
+**Some Important insights from the Dashboard.**
+
 
 Mumbai leads in revenue generation with (668.6 M), followed by Bangalore, Hyderabad and Delhi
 
 AtliQ Exotica outperforms all 7 type of property type, generating 320 Million in revenue.
+
 It has a rating of 3.62, an occupancy rate of 57% and cancellation rate of 24.4%.
-               AtliQ Bay has the highest occupancy rate at 66%.
+
+AtliQ Bay has the highest occupancy rate at 66%.
+
 Week 24 recorded the peak revenue 139.6 million. Among all
+
 In terms of both occupancy and rating, Delhi leads, followed by Hyderabad, Mumbai, Bangalore.
 
 AtliQ faced a loss of approximately 298million due to cancellations.
 
 Elite type rooms experience the highest number of booking but also have a higher cancellation rate 
+
 AtliQ Hospitality Analysis – PowerBI
