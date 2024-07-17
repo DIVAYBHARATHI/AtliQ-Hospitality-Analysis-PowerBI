@@ -113,7 +113,7 @@ Overall Analysis View
 
   - *AtliQ Exotica outperforms all 7 type of property type, generating 320 Million in revenue.*
 
-  - *It has a rating of 3.62, an occupancy rate of 57% and cancellation rate of 24.4%.*
+  - *It has a rating of 3.62, an occupancy rate of 57.87% and cancellation rate of 24.8%.*
 
   - *AtliQ Bay has the highest occupancy rate at 66%.*
 
