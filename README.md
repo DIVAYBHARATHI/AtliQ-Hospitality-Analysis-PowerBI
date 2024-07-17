@@ -95,34 +95,32 @@ Overall Analysis View
 
 **Learnt things from this Project**
 
+   - *Learnt to build a new visual using matrix table, which can be utilized for different purpose of analyze.*
 
-Learnt to build a new visual using matrix table, which can be utilized for different purpose of analyze.
+   - *Based on research into hotel cancellation polices followed by different hotels, understood that most hotels do not charge a cancellation fee if the booking 
+    is canceled before three months of booking date.*
 
-Based on research into hotel cancellation polices followed by different hotels, understood that most hotels do not charge a cancellation fee if the booking is canceled before three months of booking date.
+   - *If the booking is cancelled after that, the charge ranges from 60 to 90% of the booking cost.*
 
-If the booking is cancelled after that, the charge ranges from 60 to 90% of the booking cost.
+   - *Learnt, how to use bookmarks and selection for different purposes. (Page navigation and clear filter button in the dashboard was achieved using bookmarks 
+      and selection.* 
 
-Learnt, how to use bookmarks and selection for different purposes. (Page navigation and clear filter button in the dashboard was achieved using bookmarks and selection. 
-
-Tried using color palette and stick with those colors throughout the dashboard (Color palette link)
+   - *Tried using color palette and stick with those colors throughout the dashboard (Color palette link)*
 
 **Some Important insights from the Dashboard.**
 
+  - *Mumbai leads in revenue generation with (668.6 M), followed by Bangalore, Hyderabad and Delhi*
 
-Mumbai leads in revenue generation with (668.6 M), followed by Bangalore, Hyderabad and Delhi
+  - *AtliQ Exotica outperforms all 7 type of property type, generating 320 Million in revenue.*
 
-AtliQ Exotica outperforms all 7 type of property type, generating 320 Million in revenue.
+  - *It has a rating of 3.62, an occupancy rate of 57% and cancellation rate of 24.4%.*
 
-It has a rating of 3.62, an occupancy rate of 57% and cancellation rate of 24.4%.
+  - *AtliQ Bay has the highest occupancy rate at 66%.*
 
-AtliQ Bay has the highest occupancy rate at 66%.
+  - *Week 24 recorded the peak revenue 139.6 million. Among all*
 
-Week 24 recorded the peak revenue 139.6 million. Among all
+  - *In terms of both occupancy and rating, Delhi leads, followed by Hyderabad, Mumbai, Bangalore.*
 
-In terms of both occupancy and rating, Delhi leads, followed by Hyderabad, Mumbai, Bangalore.
+  - *AtliQ faced a loss of approximately 298million due to cancellations.*
 
-AtliQ faced a loss of approximately 298million due to cancellations.
-
-Elite type rooms experience the highest number of booking but also have a higher cancellation rate 
-
-AtliQ Hospitality Analysis – PowerBI
+  - *Elite type rooms experience the highest number of booking but also have a higher cancellation rate at AtliQ Hospitality Analysis – PowerBI*
